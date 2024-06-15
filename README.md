@@ -11,11 +11,11 @@ Adamastor|80
 ## Lista de items
 
 1. roupa
-    1.camiseta
-    2.calça
-    *sapatp
+    1. camiseta
+    2. calça
+    * sapato
 2. comida
-    *maçã
-    *uva
-    *pera
-*blabla
+    * maçã
+    * uva
+    * pera
+* blabla
